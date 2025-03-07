@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def mad_libs():
     adjective1 = input("Enter an adjective: ")
     plural_noun = input("Enter a plural noun: ")
@@ -29,3 +30,13 @@ def mad_libs():
     print(story)
     
 mad_libs()
+=======
+#mad libs
+
+# Pakistan Zindabad
+
+# Project No 1 Q1 Mad libs
+a = 10
+b = 20
+print(a*b)
+>>>>>>> 54645e706ac6045754a4e58e9401098125103c7d
